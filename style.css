@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+}
+#spa{
+    background-color: blue;
+    
+}
+#stylo{
+background-color: red;
+font-family: 'Courier New', Courier, monospace;
+
+}
